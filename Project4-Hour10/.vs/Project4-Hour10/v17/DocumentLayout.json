@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\assets\\scripts\\tryagainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tryagainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|c:\\users\\lilli\\onedrive\\desktop\\robbys_homework\\swdv 271\\week 9\\project4-hour10\\assets\\scripts\\chaosgoalscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chaosgoalscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|c:\\users\\lilli\\onedrive\\desktop\\robbys_homework\\swdv 271\\week 9\\project4-hour10\\assets\\scripts\\goalscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goalscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\assets\\scripts\\velocityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\velocityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\assets\\scripts\\rngdirectionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rngdirectionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\assets\\scripts\\gamemanager_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189E886-AE0D-2904-5840-06A692107DDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChaosGoalScript.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\ChaosGoalScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChaosGoalScript.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\ChaosGoalScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChaosGoalScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:25:27.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RNGDirectionScript.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\RNGDirectionScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RNGDirectionScript.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\RNGDirectionScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RNGDirectionScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:58:45.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager_Project.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\GameManager_Project.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager_Project.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\GameManager_Project.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager_Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:45:57.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TryAgainScript.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\TryAgainScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TryAgainScript.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\TryAgainScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TryAgainScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:25:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:01:26.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoalScript.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\GoalScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoalScript.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\GoalScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoalScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:51:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VelocityScript.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\VelocityScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VelocityScript.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 9\\Project4-Hour10\\Assets\\Scripts\\VelocityScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VelocityScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:28:25.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
